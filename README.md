@@ -5,7 +5,7 @@
 
 <!-- Animated subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=AD00FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Always+Building%2C+Always+Learning+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=BBBBBB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Always+Building%2C+Always+Learning+🚀">
 </p>
 
 ---
