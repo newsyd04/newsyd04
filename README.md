@@ -1,6 +1,6 @@
 <!-- 💠 Futuristic Neon Cyber-Grid Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:3900ff,100:ff00d4&text=👋%20Hi%2C%20I'm%20Dara!&fontAlign=50&fontColor=ffffff&fontSize=45&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=180&color=0:000000,100:003300&text=>_%20Dara&fontColor=00ff41&fontSize=40&animation=blinking" />
 </p>
 
 <!-- Animated subtitle -->
@@ -42,8 +42,6 @@
 | 🧠 Virtual Instructor AI | FLAN-T5 lecturer personas + chat UI | Python, T5, Flask, React |
 | 📊 System-Monitor Dashboard | Apple-style ops dashboard | React, Tailwind, IoT |
 
-> View pinned projects below 👇
-
 ---
 
 ## 📊 GitHub Stats
@@ -59,6 +57,6 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!;Let's+build+something+amazing+✨;Drop+a+⭐+if+you+like+my+work!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!">
 </p>
 
