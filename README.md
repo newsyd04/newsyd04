@@ -1,6 +1,6 @@
 <!-- 💠 Futuristic Neon Cyber-Grid Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:3900ff,100:ff00d4&text=👋%20Hi%2C%20I'm%20Dara Newsome!&fontAlign=50&fontColor=ffffff&fontSize=45&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:3900ff,100:ff00d4&text=👋%20Hi%2C%20I'm%20Dara!&fontAlign=50&fontColor=ffffff&fontSize=45&animation=fadeIn" />
 </p>
 
 <!-- Animated subtitle -->
@@ -46,42 +46,14 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=newsyd04&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=newsyd04B&show_icons=true&theme=radical&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=newsyd04&show_icons=true&theme=radical&count_private=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=newsyd04&theme=radical" />
 </p>
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=newsyd04&theme=react-dark" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/newsyd04/newsyd04/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🌃 Animated Skyline
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-snake-dark.svg" />
-</p>
-
----
-
-## 🎵 Spotify Now Playing
-<p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
 </p>
 
 ---
