@@ -1,6 +1,6 @@
 <!-- 💠 Futuristic Neon Cyber-Grid Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=24&duration=2800&pause=900&color=BBBBBB&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Dara.;Software+Engineer.;AI+%2F+Systems+%2F+Craftsmanship." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=24&duration=2800&pause=900&color=BBBBBB&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Dara." />
 </p>
 
 <!-- Animated subtitle -->
