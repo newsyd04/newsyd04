@@ -1,6 +1,6 @@
 <!-- 💠 Futuristic Neon Cyber-Grid Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Dara.;Building+elegant+software.;Obsessed+with+craft%2C+clarity%2C+and+systems." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&size=28&duration=3500&pause=1000&color=F8F8F2&center=true&vCenter=true&width=650&lines=Hello.+I%27m+Dara.;I+build+systems+that+think.;I+design+software+with+precision." />
 </p>
 
 <!-- Animated subtitle -->
