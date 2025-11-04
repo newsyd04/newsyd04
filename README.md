@@ -1,6 +1,6 @@
 <!-- 💠 Futuristic Neon Cyber-Grid Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0a0a0a,100:1d1d1d&text=Dara%20🧡&fontColor=ff6e00&fontSize=50&animation=scaleIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Dara.;Building+elegant+software.;Obsessed+with+craft%2C+clarity%2C+and+systems." />
 </p>
 
 <!-- Animated subtitle -->
