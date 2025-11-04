@@ -1,6 +1,6 @@
 <!-- 💠 Futuristic Neon Cyber-Grid Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=180&color=0:000000,100:003300&text=>_%20Dara&fontColor=00ff41&fontSize=40&animation=blinking" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=150&color=0:1e1e1e,100:5c5c5c&text=Dara&fontColor=dcdcdc&fontSize=48&animation=blurIn" />
 </p>
 
 <!-- Animated subtitle -->
