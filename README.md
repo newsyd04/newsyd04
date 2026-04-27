@@ -12,8 +12,6 @@
 
 ## 🧠 About Me
 - 🎓 MSc Immersive Software Engineering @ UL (2026)
-- 🤖 Building **virtual instructor AI** (FLAN-T5 persona fine-tuning)
-- 🛰️ IoT + systems + real-time dashboards
 ---
 
 ## 🛠 Tech Stack
@@ -40,19 +38,6 @@
 | Project | Description | Tech |
 |--------|-------------|-----|
 | 🧠 Virtual Instructor AI | FLAN-T5 lecturer personas + chat UI | Python, T5, Flask, React |
-| 📊 System-Monitor Dashboard | Apple-style ops dashboard | React, Tailwind, IoT |
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=newsyd04&show_icons=true&theme=radical&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=newsyd04&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=newsyd04&theme=react-dark" />
-</p>
 
 ---
 
