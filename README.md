@@ -34,13 +34,6 @@
 
 ---
 
-## 🚀 Pinned Projects
-| Project | Description | Tech |
-|--------|-------------|-----|
-| 🧠 Virtual Instructor AI | FLAN-T5 lecturer personas + chat UI | Python, T5, Flask, React |
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!">
 </p>
